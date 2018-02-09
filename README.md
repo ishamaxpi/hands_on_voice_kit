@@ -71,10 +71,6 @@ _NOTE: Make sure that they are fixed completely into place._
 * Attach the microphone board to the cardboard using tape.   
 ![pic20](https://user-images.githubusercontent.com/35935951/35827488-3f257aea-0ae2-11e8-86b9-27c861369d35.png)  
 
-
-
-
-
 ## Set up your device
 1. Get an SD card(minimum of 8 GB)  
 2. Get the Voice Kit SD image<https://aiyprojects.withgoogle.com/voice#assembly-guide-1-get-the-voice-kit-sd-imag>    
