@@ -1,4 +1,6 @@
-# Make your Raspberry Pi speak with Google Voice Kit
+# Make your Raspberry Pi speak with Google Voice Kit  
+
+![](https://statics3.seeedstudio.com/seeed/file/2017-10/bazaar597923_aiyk1.jpg)  
 
 >_"Our goal with AIY Projects has always been to make artificial intelligence open and accessible 
 for makers of all ages,"_- Bill Rutledge, director of AIY Projects at Google
